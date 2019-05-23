@@ -2,3 +2,5 @@ https://bennettfeely.com/clippy/
 live-server
 http://codingheroes.io/resources/
 http://linea.io/
+coverr
+icomoon
